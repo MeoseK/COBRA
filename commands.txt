@@ -1,0 +1,49 @@
+# Commands list
+
+git init
+# Initialisiert eine git repo 
+
+git config
+# Zum Konfigurieren des Nutzernamens, E-Mails, etc.
+
+git clone
+# Kopiert eine repo auf den Rechner
+
+git add
+# Zum Angeben, welche Dateien beim push geändert werden sollen
+
+git rm
+# Löscht Dateien, die geändert werden sollen
+
+git commit
+# Fügt einen Kommentar für den Push hinzu
+
+git remote
+# Überprüft den Source / kann ein neues Remote erstellen
+
+git push
+# Sendet die Änderungen zum Remote
+
+git pull
+# Download der Änderungen auf den PC
+
+git status
+# Überprüft, was beim push geändert wird
+
+git diff
+# Zeigt die Differenz zwischen dem Original und dem Bearbeiteten repo
+
+git reset
+# Ändert den Index auf den ursprünglichen
+
+git log
+# Anzeige des commit-logs
+
+git branch
+# Erstellen, löschen und anzeigen von Branches
+
+git checkout
+# Branch-wechsel
+
+git merge
+# Verbindet development histories
